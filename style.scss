@@ -1,0 +1,24 @@
+
+$nav-bar-font:  20px;
+
+$gradient : linear-gradient(-120deg, #D62121, #C72C2C, #3a1111);
+
+// .text-center    {
+    
+// }
+
+.nav-link   {
+    font-size: $nav-bar-font ;
+}
+
+
+
+.btn-primary {
+   background: $gradient;
+    border: none;
+  }
+  
+nav     {
+    background: $gradient
+}
+
